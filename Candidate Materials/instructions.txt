@@ -1,0 +1,10 @@
+Admiral - Customer Engagement Tribe
+Software Developer Technical Task
+The goal with this task is to implement a REST-based API for a very simple bank account application. There are two files that define the requirements:
+•	Openapi.yaml: a definition of the API using Open API specifications (also known as Swagger). For more information on Open API see Home - OpenAPI Initiative (openapis.org)
+•	CodingChallengeScenarios.md: a set of business requirements written using the Given/When/Then format
+
+Ideally you will complete all the provided scenarios, as well as any extras that you think appropriate. We do appreciate your time may be limited though and will consider other submissions; in all cases we will discuss the task in the interview.
+We are flexible on how the source code for your solution is shared; an email with a zip of the source code or a link to a repository are both suitable. However, the solution should be shared in advance of any interviews.
+Finally, if anything is unclear about the task then please do contact us and we will try to clarify.
+
